@@ -1,9 +1,9 @@
 <div align="center">
-Student Management System - <a href='https://github.com/1adityakadam/normalised_dataset_for_sms/blob/main/model%20schematic.png'>Data Modeling</a>
+Student Management System with MySQL - <a href='https://github.com/1adityakadam/normalised_dataset_for_sms/blob/main/model%20schematic.png'>Data Modeling</a>
 </div>
 <br>
 
-This project involves designing a relational database for a Student Management System (SMS). The goal is to structure student data efficiently using a normalized schema, ensuring data integrity, consistency, and optimized performance.
+This project involves designing a relational database for a Student Management System (SMS) with MySQL. The goal is to structure student data efficiently using a normalized schema, ensuring data integrity, consistency, and optimized performance.
 The database schema consists of multiple tables, each serving a specific purpose, with appropriate constraints, relationships, and data validation rules.
 
 <br>
